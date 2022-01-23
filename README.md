@@ -5,7 +5,6 @@ I am passionate about building great products that solve consumer and business n
 
 Skills: Android App Development, Ios App Development, MVVM, Clean architecture, Modularization, Dagger2, Hilt, Navigation, Work Manager, Rxjava3, Room, Kotlin Coroutines, Retrofit, Google Map, Video Streaming, Flutter, Bloc, Provider, http, Jira, Trello, Git, Click up, Figma
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: kamrulhasan3288@gmail.com 
 
 
