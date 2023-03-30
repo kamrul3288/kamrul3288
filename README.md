@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Kamrul Hasan
 
-I am passionate about building great products that solve consumer and business needs. I love creating seamless end-to-end experiences using cutting-edge technology. Currently associated with Jatri Services Limited, The first application-based tracking and ticketing platform for public transportation in Bangladesh.
+Manager, Engineering & Technology with 5+ years' experience implementing mobile applications in multiple languages. Led the re-architecture of the key platform that serves millions of users. Guided a team of 20-25 members through 15+ product launches that solved customers' needs and Bangladesh transport ticketing problems.
 
 <h1>Specialties</h1>
 <li>Leadership, Team building, Planning and process management skills, Lead Discovery, Design & Execution, Communication.</li>
